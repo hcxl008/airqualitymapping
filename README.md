@@ -3,7 +3,7 @@
 An advanced Python MVP engineered for the hackathon to eliminate urban air quality blindspots. The system combines an AI web agent infrastructure with machine learning downscaling to map microclimate variations.
 
 ## 🔗 Live Application Dashboard
-👉 **[INSERT YOUR LIVE STREAMLIT DEPLOYMENT URL LINK HERE]**
+👉 https://air-aware-hyperlocal-mapping.streamlit.app/
 
 ## 🚨 The Core Problem
 Official air quality monitoring networks (such as India's CPCB network) rely on sparse, expensive static reference stations. Because ambient air pollution fluctuates block-by-block due to road traffic and localized construction dust, these static grids leave massive urban blind spots where citizens live, work, and commute.
